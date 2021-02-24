@@ -45,6 +45,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 ## 2019
 - [Quantum Computation of the Massive Thirring Model](https://arxiv.org/abs/1912.07767)
 - [Practical Quantum Computation of Chemical and Nuclear Energy Levels Using Quantum Imaginary Time Evolution and Lanczos Algorithms](https://arxiv.org/abs/1912.06226)
+- [Loop, String, and Hadron Dynamics in SU(2) Hamiltonian Lattice Gauge Theories](https://arxiv.org/abs/1912.06133)
 - [Qubit O(N) nonlinear sigma models](https://arxiv.org/abs/1911.12353)
 - [Simulating Lattice Gauge Theories within Quantum Technologies](https://arxiv.org/abs/1911.00003)
 - [Quantum-classical simulation of two-site dynamical mean-field theory on noisy quantum hardware](https://arxiv.org/abs/1910.09512)
@@ -74,6 +75,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Self-Verifying Variational Quantum Simulation of the Lattice Schwinger Model](https://arxiv.org/abs/1810.03421)
 - [Quantum hardware simulating four-dimensional inelastic neutron scattering](https://arxiv.org/abs/1809.07974)
 - [Digitization of Scalar Fields for Quantum Computing](https://arxiv.org/abs/1808.10378v2)
+- [Gauss's Law, Duality, and the Hamiltonian Formulation of U(1) Lattice Gauge Theory](https://arxiv.org/abs/1806.08797)
 - [Simulation of Nonequilibrium Dynamics on a Quantum Computer](https://arxiv.org/abs/1806.06649)
 - [Digital quantum computation of fermion-boson interacting systems](https://arxiv.org/abs/1805.09928)
 - [Linear Response on a Quantum Computer](https://arxiv.org/abs/1804.01505)
