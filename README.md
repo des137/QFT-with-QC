@@ -99,6 +99,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum simulation of quantum field theory using continuous variables](https://arxiv.org/abs/1503.08121)
 
 ## 2014
+- [Towards Quantum Simulating QCD](https://arxiv.org/abs/1409.7414)
 - [A Formulation of Lattice Gauge Theories for Quantum Simulations](https://arxiv.org/abs/1409.3085)
 - [Quantum simulation of the Schwinger model: A study of feasibility](https://arxiv.org/abs/1407.4995)
 
