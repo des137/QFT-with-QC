@@ -66,7 +66,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum simulation of scattering in the quantum Ising model](https://arxiv.org/abs/1901.05944)
 
 ## 2018
-
+- [Solving Gauss's Law on Digital Quantum Computers with Loop-String-Hadron Digitization](https://arxiv.org/abs/1812.07554)
 - [Scalar Quantum Field Theories as a Benchmark for Near-Term Quantum Computers](https://arxiv.org/abs/1811.12332)
 - [Simulating quantum field theory with a quantum computer](https://arxiv.org/abs/1811.10085)
 - [Digitizing Gauge Fields: Lattice Monte Carlo Results for Future Quantum Computers](https://arxiv.org/abs/1811.03629)
