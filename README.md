@@ -98,6 +98,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2015
 - [Quantum simulation of quantum field theory using continuous variables](https://arxiv.org/abs/1503.08121)
+- [Quantum Simulations of Lattice Gauge Theories using Ultracold Atoms in Optical Lattices](https://arxiv.org/abs/1503.02312)
 
 ## 2014
 - [Towards Quantum Simulating QCD](https://arxiv.org/abs/1409.7414)
