@@ -1,4 +1,4 @@
-# QFT-on-QC Resources
+# QFT-with-QC Resources
 
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
