@@ -28,6 +28,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Real-time simulation of (2+1)-dimensional lattice gauge theory on qubits](https://arxiv.org/abs/2008.11395)
 - [Towards simulating 2D effects in lattice gauge theories on a quantum computer](https://arxiv.org/abs/2008.09252)
 - [Scattering in the Ising Model Using Quantum Lanczos Algorithm](https://arxiv.org/abs/2008.08763)
+- [Geometric Quantum Information Structure in Quantum Fields and their Lattice Simulation](https://arxiv.org/abs/2008.03647)
 - [An Algorithm for Quantum Computation of Particle Decays](https://arxiv.org/abs/2007.04447)
 - [The role of boundary conditions in quantum computations of scattering observables](https://arxiv.org/abs/2007.01155)
 - [A resource efficient approach for quantum and classical simulations of gauge theories in particle physics](https://arxiv.org/abs/2006.14160v3)
