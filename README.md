@@ -36,11 +36,11 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum simulation of quantum field theories as quantum chemistry](https://arxiv.org/abs/2004.13234)
 - [Quantum Algorithms for Simulating the Lattice Schwinger Model](https://arxiv.org/abs/2002.11146)
 - [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016)
+- [Fixed-Point Quantum Circuits for Quantum Field Theories](https://arxiv.org/abs/2002.02018)
 - [Lattice Gauge Theory for a Quantum Computer](https://arxiv.org/abs/2002.10028)
 - [Confinement and Entanglement Dynamics on a Digital Quantum Computer](https://arxiv.org/abs/2001.03044)
 - [Real-time chiral dynamics from a digital quantum simulation](https://arxiv.org/abs/2001.00698)
 - [Digital Quantum Simulation of the Schwinger Model with Topological Term via Adiabatic State Preparation](https://arxiv.org/abs/2001.00485)
-
 
 ## 2019
 - [Quantum Computation of the Massive Thirring Model](https://arxiv.org/abs/1912.07767)
