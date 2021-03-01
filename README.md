@@ -93,6 +93,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Faster Quantum Algorithm to simulate Fermionic Quantum Field Theory](https://arxiv.org/abs/1711.04006)
 - [Quantum Computation of Scattering Amplitudes in Scalar Quantum Electrodynamics](https://arxiv.org/abs/1709.02355)
 - [Quantum sensors for the generating functional of interacting quantum field theories](https://arxiv.org/abs/1704.02877)
+- [Quantum Simulation of the Abelian-Higgs Lattice Gauge Theory with Ultracold Atoms](https://arxiv.org/abs/1702.05492v3)
 
 ## 2016
 - [U(1) Wilson lattice gauge theories in digital quantum simulators](https://arxiv.org/abs/1612.08653)
