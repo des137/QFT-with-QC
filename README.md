@@ -102,6 +102,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [U(1) Wilson lattice gauge theories in digital quantum simulators](https://arxiv.org/abs/1612.08653)
 - [Digital Quantum Simulation of Minimal AdS/CFT](https://arxiv.org/abs/1607.08560)
 - [Real-time dynamics of lattice gauge theories with a few-qubit quantum computer](https://arxiv.org/abs/1605.04570v1)
+- [Quantum Spin Liquids](https://arxiv.org/abs/1601.03742)
 
 ## 2015
 - [Quantum simulation of quantum field theory using continuous variables](https://arxiv.org/abs/1503.08121)
