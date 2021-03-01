@@ -35,6 +35,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [State preparation and measurement in a quantum simulation of the O(3) sigma model](https://arxiv.org/abs/2006.15746)
 - [Toward scalable simulations of Lattice Gauge Theories on quantum computers](https://arxiv.org/abs/2005.10271)
 - [Quantum simulation of quantum field theories as quantum chemistry](https://arxiv.org/abs/2004.13234)
+- [Hamiltonian Simulation Algorithms for Near-Term Quantum Hardware](https://arxiv.org/abs/2003.06886)
 - [Quantum Algorithms for Simulating the Lattice Schwinger Model](https://arxiv.org/abs/2002.11146)
 - [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016)
 - [Fixed-Point Quantum Circuits for Quantum Field Theories](https://arxiv.org/abs/2002.02018)
