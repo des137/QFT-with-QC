@@ -111,6 +111,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 ## 2014
 - [Towards Quantum Simulating QCD](https://arxiv.org/abs/1409.7414)
 - [A Formulation of Lattice Gauge Theories for Quantum Simulations](https://arxiv.org/abs/1409.3085)
+- [SU(2) Lattice Gauge Theory- Local Dynamics on Non-intersecting Electric flux Loops](https://arxiv.org/abs/1408.6331)
 - [Quantum simulation of the Schwinger model: A study of feasibility](https://arxiv.org/abs/1407.4995)
 
 ## 2013
