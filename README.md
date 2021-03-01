@@ -60,6 +60,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Gluon Field Digitization for Quantum Computers](https://arxiv.org/abs/1906.11213)
 - [Simulating quantum many-body dynamics on a current digital quantum computer](https://arxiv.org/abs/1906.06343)
 - [A qubit regularization of the O(3) sigma model](https://arxiv.org/abs/1905.13204)
+- [Short-depth circuits for efficient expectation value estimation](https://arxiv.org/abs/1905.08383)
 - [Minimally-Entangled State Preparation of Localized Wavefunctions on Quantum Computers](https://arxiv.org/abs/1904.10440)
 - [Emergence of Gauss' Law in a ℤ2 Lattice Gauge Theory](https://arxiv.org/abs/1904.05414)
 - [Toward convergence of effective field theory simulations on digital quantum computers](https://arxiv.org/abs/1904.04338)
