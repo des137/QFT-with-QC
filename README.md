@@ -1,4 +1,4 @@
-# QFT-with-QC Resources
+# QFT-Quantum Simpulations
 
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
@@ -44,6 +44,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Digital Quantum Simulation of the Schwinger Model with Topological Term via Adiabatic State Preparation](https://arxiv.org/abs/2001.00485)
 
 ## 2019
+- [Framework for simulating gauge theories with dipolar spin systems](https://arxiv.org/abs/1912.11488)
 - [Quantum Computation of the Massive Thirring Model](https://arxiv.org/abs/1912.07767)
 - [Practical Quantum Computation of Chemical and Nuclear Energy Levels Using Quantum Imaginary Time Evolution and Lanczos Algorithms](https://arxiv.org/abs/1912.06226)
 - [Loop, String, and Hadron Dynamics in SU(2) Hamiltonian Lattice Gauge Theories](https://arxiv.org/abs/1912.06133)
