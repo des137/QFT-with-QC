@@ -84,6 +84,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Gauss's Law, Duality, and the Hamiltonian Formulation of U(1) Lattice Gauge Theory](https://arxiv.org/abs/1806.08797)
 - [Simulation of Nonequilibrium Dynamics on a Quantum Computer](https://arxiv.org/abs/1806.06649)
 - [Digital quantum computation of fermion-boson interacting systems](https://arxiv.org/abs/1805.09928)
+- [Digital quantum simulation of lattice gauge theories in three spatial dimensions](https://arxiv.org/abs/1804.02082)
 - [Linear Response on a Quantum Computer](https://arxiv.org/abs/1804.01505)
 - [Quantum-Classical Computation of Schwinger Model Dynamics using Quantum Computers](https://arxiv.org/abs/1803.03326)
 - [Electron-Phonon Systems on a Universal Quantum Computer](https://arxiv.org/abs/1802.07347)
