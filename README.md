@@ -55,6 +55,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum-classical simulation of two-site dynamical mean-field theory on noisy quantum hardware](https://arxiv.org/abs/1910.09512)
 - [Benchmarking quantum computers for real-time evolution of a (1+1) field theory with error mitigation](https://arxiv.org/abs/1910.09478)
 - [Crossing a topological phase transition with a quantum computer](https://arxiv.org/abs/1910.05351)
+- [Real Time Dynamics and Confinement in the ℤn Schwinger-Weyl lattice model for 1+1 QED](https://arxiv.org/abs/1909.04821)
 - [Deeply inelastic scattering structure functions on a hybrid quantum computer](https://arxiv.org/abs/1908.07051)
 - [SU(2) non-Abelian gauge field theory in one dimension on digital quantum computers](https://arxiv.org/abs/1908.06935)
 - [Accelerating lattice quantum field theory calculations via interpolator optimization using NISQ-era quantum computing](https://arxiv.org/abs/1908.04194)
