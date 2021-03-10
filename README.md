@@ -125,3 +125,6 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2011
 - [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633)
+
+## 2005
+- [Simulating lattice gauge theories on a quantum computer](https://arxiv.org/abs/quant-ph/0510027)
