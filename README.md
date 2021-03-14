@@ -1,4 +1,4 @@
-# QFT-Quantum Simpulations
+# QFT-Quantum Simulations
 
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
