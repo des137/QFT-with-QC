@@ -121,6 +121,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2013
 - [Quantum Simulation](https://arxiv.org/abs/1308.6253)
+- [Quantum simulation of a lattice Schwinger model in a chain of trapped ions](https://arxiv.org/abs/1306.2162)
 
 ## 2012
 - [Simulations of non-Abelian gauge theories with optical lattices](https://arxiv.org/abs/1211.2704)
