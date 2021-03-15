@@ -122,6 +122,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum Simulation](https://arxiv.org/abs/1308.6253)
 
 ## 2012
+- [Simulations of non-Abelian gauge theories with optical lattices](https://arxiv.org/abs/1211.2704)
 - [Atomic Quantum Simulation of U(N) and SU(N) Non-Abelian Lattice Gauge Theories](https://arxiv.org/abs/1211.2242)
 
 ## 2011
