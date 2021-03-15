@@ -92,6 +92,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Linear Response on a Quantum Computer](https://arxiv.org/abs/1804.01505)
 - [Quantum-Classical Computation of Schwinger Model Dynamics using Quantum Computers](https://arxiv.org/abs/1803.03326)
 - [Electron-Phonon Systems on a Universal Quantum Computer](https://arxiv.org/abs/1802.07347)
+- [Quantum simulation of lattice gauge theories using Wilson fermions](https://arxiv.org/abs/1802.06704)
 - [Cloud Quantum Computing of an Atomic Nucleus](https://arxiv.org/abs/1801.03897)
 - [Continuous-variable gate decomposition for the Bose-Hubbard model](https://arxiv.org/abs/1801.06565)
 - [Quantum algorithm for simulating real time evolution of lattice Hamiltonians](https://arxiv.org/abs/1801.03922)
