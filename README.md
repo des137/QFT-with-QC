@@ -12,6 +12,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2020
 - [Collisions of false-vacuum bubble walls in a quantum spin chain](https://arxiv.org/abs/2012.07243)
+- [Z2 lattice gauge theories and Kitaev’s toric code: A scheme for analog quantum simulation](https://arxiv.org/abs/2012.05235)
 - [Real-time dynamics of Chern-Simons fluctuations near a critical point](https://arxiv.org/abs/2012.02926)
 - [Gauge equivariant neural networks for quantum lattice gauge theories](https://arxiv.org/abs/2012.05232)
 - [Qubit regularization of asymptotic freedom](https://arxiv.org/abs/2012.02153)
