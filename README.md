@@ -19,6 +19,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Scattering of mesons in quantum simulators](https://arxiv.org/abs/2011.10583)
 - [Exactly solvable model as a testbed for quantum-enhanced dark matter detection](https://arxiv.org/abs/2011.04097)
 - [Selected topics of quantum computing for nuclear physics](https://arxiv.org/abs/2011.01431)
+- [Quantum Simulation of Light-Front Parton Correlators](https://arxiv.org/abs/2011.01275)
 - [Quantum simulation of open quantum systems in heavy-ion collisions](https://arxiv.org/abs/2010.03571)
 - [Cold Atom Quantum Simulator for String and Hadron Dynamics in Non-Abelian Lattice Gauge Theory](https://arxiv.org/abs/2009.13969)
 - [Preparation of excited states for nuclear dynamics on a quantum computer](https://arxiv.org/abs/2009.13485)
