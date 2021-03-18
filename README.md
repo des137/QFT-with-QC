@@ -26,6 +26,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Cold Atom Quantum Simulator for String and Hadron Dynamics in Non-Abelian Lattice Gauge Theory](https://arxiv.org/abs/2009.13969)
 - [Preparation of excited states for nuclear dynamics on a quantum computer](https://arxiv.org/abs/2009.13485)
 - [Search for Efficient Formulations for Hamiltonian Simulation of non-Abelian Lattice Gauge Theories](https://arxiv.org/abs/2009.11802)
+- [On Quantum Simulation Of Cosmic Inflation](https://arxiv.org/abs/2009.10921)
 - [Light-Front Field Theory on Current Quantum Computers](https://arxiv.org/abs/2009.07885)
 - [Quantum Computation of Finite-Temperature Static and Dynamical Properties of Spin Systems Using Quantum Imaginary Time Evolution](https://arxiv.org/abs/2009.03542)
 - [Trotter errors in digital adiabatic quantum simulation of quantum Z2 lattice gauge theory](https://arxiv.org/abs/2009.00247)
