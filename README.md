@@ -19,6 +19,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Toward Quantum Simulations of ℤ2 Gauge Theory Without State Preparation](https://arxiv.org/abs/2011.11677)
 - [Scattering of mesons in quantum simulators](https://arxiv.org/abs/2011.10583)
 - [Quantum simulation of gauge theory via orbifold lattice](https://arxiv.org/abs/2011.06576)
+- [Toward simulating Superstring/M-theory on a quantum computer](https://arxiv.org/abs/2011.06573)
 - [Exactly solvable model as a testbed for quantum-enhanced dark matter detection](https://arxiv.org/abs/2011.04097)
 - [Selected topics of quantum computing for nuclear physics](https://arxiv.org/abs/2011.01431)
 - [Quantum Simulation of Light-Front Parton Correlators](https://arxiv.org/abs/2011.01275)
