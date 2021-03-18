@@ -17,6 +17,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Qubit regularization of asymptotic freedom](https://arxiv.org/abs/2012.02153)
 - [Simulating Hadronic Physics on NISQ devices using Basis Light-Front Quantization](https://arxiv.org/abs/2011.13443)
 - [Toward Quantum Simulations of ℤ2 Gauge Theory Without State Preparation](https://arxiv.org/abs/2011.11677)
+- [Spatiotemporal dynamics of particle collisions in quantum spin chains](https://arxiv.org/abs/2011.11624)
 - [Scattering of mesons in quantum simulators](https://arxiv.org/abs/2011.10583)
 - [Quantum simulation of gauge theory via orbifold lattice](https://arxiv.org/abs/2011.06576)
 - [Toward simulating Superstring/M-theory on a quantum computer](https://arxiv.org/abs/2011.06573)
