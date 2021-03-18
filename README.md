@@ -25,6 +25,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Search for Efficient Formulations for Hamiltonian Simulation of non-Abelian Lattice Gauge Theories](https://arxiv.org/abs/2009.11802)
 - [Light-Front Field Theory on Current Quantum Computers](https://arxiv.org/abs/2009.07885)
 - [Quantum Computation of Finite-Temperature Static and Dynamical Properties of Spin Systems Using Quantum Imaginary Time Evolution](https://arxiv.org/abs/2009.03542)
+- [Trotter errors in digital adiabatic quantum simulation of quantum Z2 lattice gauge theory](https://arxiv.org/abs/2009.00247)
 - [Real-time simulation of (2+1)-dimensional lattice gauge theory on qubits](https://arxiv.org/abs/2008.11395)
 - [Towards simulating 2D effects in lattice gauge theories on a quantum computer](https://arxiv.org/abs/2008.09252)
 - [Lattice gauge theory and dynamical quantum phase transitions using noisy intermediate scale quantum devices](https://arxiv.org/abs/2008.08980)
