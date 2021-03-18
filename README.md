@@ -11,11 +11,12 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Simulating Effective QED on Quantum Computers](https://arxiv.org/abs/2101.00111)
 
 ## 2020
+- [Scalable cold-atom quantum simulator for two-dimensional QED](https://arxiv.org/abs/2012.10432)
 - [Collisions of false-vacuum bubble walls in a quantum spin chain](https://arxiv.org/abs/2012.07243)
 - [Quantum Algorithms for Open Lattice Field Theory](https://arxiv.org/abs/2012.05257)
 - [Z2 lattice gauge theories and Kitaev’s toric code: A scheme for analog quantum simulation](https://arxiv.org/abs/2012.05235)
-- [Real-time dynamics of Chern-Simons fluctuations near a critical point](https://arxiv.org/abs/2012.02926)
 - [Gauge equivariant neural networks for quantum lattice gauge theories](https://arxiv.org/abs/2012.05232)
+- [Real-time dynamics of Chern-Simons fluctuations near a critical point](https://arxiv.org/abs/2012.02926)
 - [Qubit regularization of asymptotic freedom](https://arxiv.org/abs/2012.02153)
 - [Simulating Hadronic Physics on NISQ devices using Basis Light-Front Quantization](https://arxiv.org/abs/2011.13443)
 - [Toward Quantum Simulations of ℤ2 Gauge Theory Without State Preparation](https://arxiv.org/abs/2011.11677)
