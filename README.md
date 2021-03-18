@@ -36,6 +36,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Geometric Quantum Information Structure in Quantum Fields and their Lattice Simulation](https://arxiv.org/abs/2008.03647)
 - [An Algorithm for Quantum Computation of Particle Decays](https://arxiv.org/abs/2007.04447)
 - [The role of boundary conditions in quantum computations of scattering observables](https://arxiv.org/abs/2007.01155)
+- [Quantum simulation with hybrid tensor networks](https://arxiv.org/abs/2007.00958)
 - [A resource efficient approach for quantum and classical simulations of gauge theories in particle physics](https://arxiv.org/abs/2006.14160v3)
 - [State preparation and measurement in a quantum simulation of the O(3) sigma model](https://arxiv.org/abs/2006.15746)
 - [Toward scalable simulations of Lattice Gauge Theories on quantum computers](https://arxiv.org/abs/2005.10271)
