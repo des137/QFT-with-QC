@@ -8,6 +8,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [A Trailhead for Quantum Simulation of SU(3) Yang-Mills Lattice Gauge Theory in the Local Multiplet Basis](https://arxiv.org/abs/2101.10227)
 - [Gauge Invariant Autoregressive Neural Networks for Quantum Lattice Models](https://arxiv.org/abs/2101.07243)
 - [Towards Cosmological Simulations of Dark Matter on Quantum Computers](https://arxiv.org/abs/2101.05821)
+- [Quantum Simulation of the Bosonic Creutz Ladder with a Parametric Cavity](https://arxiv.org/abs/2101.03926)
 - [Simulating Effective QED on Quantum Computers](https://arxiv.org/abs/2101.00111)
 
 ## 2020
