@@ -27,6 +27,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum Computation of Finite-Temperature Static and Dynamical Properties of Spin Systems Using Quantum Imaginary Time Evolution](https://arxiv.org/abs/2009.03542)
 - [Real-time simulation of (2+1)-dimensional lattice gauge theory on qubits](https://arxiv.org/abs/2008.11395)
 - [Towards simulating 2D effects in lattice gauge theories on a quantum computer](https://arxiv.org/abs/2008.09252)
+- [Lattice gauge theory and dynamical quantum phase transitions using noisy intermediate scale quantum devices](https://arxiv.org/abs/2008.08980)
 - [Scattering in the Ising Model Using Quantum Lanczos Algorithm](https://arxiv.org/abs/2008.08763)
 - [Geometric Quantum Information Structure in Quantum Fields and their Lattice Simulation](https://arxiv.org/abs/2008.03647)
 - [An Algorithm for Quantum Computation of Particle Decays](https://arxiv.org/abs/2007.04447)
