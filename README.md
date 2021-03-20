@@ -151,3 +151,6 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2005
 - [Simulating lattice gauge theories on a quantum computer](https://arxiv.org/abs/quant-ph/0510027)
+
+## 2000
+- [Simulation of topological field theories by quantum computers](https://arxiv.org/abs/quant-ph/0001071)
