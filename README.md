@@ -127,7 +127,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum Spin Liquids](https://arxiv.org/abs/1601.03742)
 
 ## 2015
-- [https://arxiv.org/abs/1505.04720](https://arxiv.org/abs/1505.04720)
+- [Non-Abelian SU(2) Lattice Gauge Theories in Superconducting Circuits](https://arxiv.org/abs/1505.04720)
 - [Quantum simulation of quantum field theory using continuous variables](https://arxiv.org/abs/1503.08121)
 - [Quantum Simulations of Lattice Gauge Theories using Ultracold Atoms in Optical Lattices](https://arxiv.org/abs/1503.02312)
 
