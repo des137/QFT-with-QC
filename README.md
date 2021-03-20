@@ -120,6 +120,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 ## 2016
 - [U(1) Wilson lattice gauge theories in digital quantum simulators](https://arxiv.org/abs/1612.08653)
 - [Digital Quantum Simulation of Minimal AdS/CFT](https://arxiv.org/abs/1607.08560)
+- [Digital quantum simulation of ℤ2 lattice gauge theories with dynamical fermionic matter](https://arxiv.org/abs/1607.03656)
 - [Real-time dynamics of lattice gauge theories with a few-qubit quantum computer](https://arxiv.org/abs/1605.04570v1)
 - [Quantum Spin Liquids](https://arxiv.org/abs/1601.03742)
 
@@ -132,6 +133,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [A Formulation of Lattice Gauge Theories for Quantum Simulations](https://arxiv.org/abs/1409.3085)
 - [SU(2) Lattice Gauge Theory- Local Dynamics on Non-intersecting Electric flux Loops](https://arxiv.org/abs/1408.6331)
 - [Quantum simulation of the Schwinger model: A study of feasibility](https://arxiv.org/abs/1407.4995)
+- [Fermion-Fermion Scattering in Quantum Field Theory with Superconducting Circuits](https://arxiv.org/abs/1404.2868)
 
 ## 2013
 - [Quantum Simulation](https://arxiv.org/abs/1308.6253)
