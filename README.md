@@ -78,6 +78,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Gluon Field Digitization for Quantum Computers](https://arxiv.org/abs/1906.11213)
 - [Simulating quantum many-body dynamics on a current digital quantum computer](https://arxiv.org/abs/1906.06343)
 - [A qubit regularization of the O(3) sigma model](https://arxiv.org/abs/1905.13204)
+- [A qubit model for U(1) lattice gauge theory](https://arxiv.org/abs/1905.09789)
 - [Short-depth circuits for efficient expectation value estimation](https://arxiv.org/abs/1905.08383)
 - [Neutrino Oscillations in a Quantum Processor](https://arxiv.org/abs/1904.10559)
 - [Minimally-Entangled State Preparation of Localized Wavefunctions on Quantum Computers](https://arxiv.org/abs/1904.10440)
