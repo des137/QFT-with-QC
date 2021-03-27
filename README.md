@@ -3,6 +3,7 @@
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
 ## 2021
+- [Simulation of Collective Neutrino Oscillations on a Quantum Computer](https://arxiv.org/abs/2102.12556)
 - [SU(2) hadrons on a quantum computer](https://arxiv.org/abs/2102.08920)
 - [Simulating collider physics on quantum computers using effective field theories](https://arxiv.org/abs/2102.05044)
 - [A Trailhead for Quantum Simulation of SU(3) Yang-Mills Lattice Gauge Theory in the Local Multiplet Basis](https://arxiv.org/abs/2101.10227)
