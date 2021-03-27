@@ -61,6 +61,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Confinement and Entanglement Dynamics on a Digital Quantum Computer](https://arxiv.org/abs/2001.03044)
 - [Real-time chiral dynamics from a digital quantum simulation](https://arxiv.org/abs/2001.00698)
 - [Digital Quantum Simulation of the Schwinger Model with Topological Term via Adiabatic State Preparation](https://arxiv.org/abs/2001.00485)
+- [Reliability of lattice gauge theories](https://arxiv.org/abs/2001.00024)
 
 ## 2019
 - [Framework for simulating gauge theories with dipolar spin systems](https://arxiv.org/abs/1912.11488)
