@@ -146,6 +146,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 ## 2012
 - [Simulations of non-Abelian gauge theories with optical lattices](https://arxiv.org/abs/1211.2704)
 - [Atomic Quantum Simulation of U(N) and SU(N) Non-Abelian Lattice Gauge Theories](https://arxiv.org/abs/1211.2242)
+- [Atomic Quantum Simulation of Dynamical Gauge Fields coupled to Fermionic Matter: From String Breaking to Evolution after a Quench](https://arxiv.org/abs/1205.6366)
 
 ## 2011
 - [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633)
