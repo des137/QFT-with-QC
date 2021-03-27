@@ -42,6 +42,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Lattice gauge theory and dynamical quantum phase transitions using noisy intermediate scale quantum devices](https://arxiv.org/abs/2008.08980)
 - [Scattering in the Ising Model Using Quantum Lanczos Algorithm](https://arxiv.org/abs/2008.08763)
 - [Geometric Quantum Information Structure in Quantum Fields and their Lattice Simulation](https://arxiv.org/abs/2008.03647)
+- [First-principle simulations of 1+1d quantum field theories at θ=π and spin-chains](https://arxiv.org/abs/2007.06323)
 - [An Algorithm for Quantum Computation of Particle Decays](https://arxiv.org/abs/2007.04447)
 - [The role of boundary conditions in quantum computations of scattering observables](https://arxiv.org/abs/2007.01155)
 - [Quantum simulation with hybrid tensor networks](https://arxiv.org/abs/2007.00958)
