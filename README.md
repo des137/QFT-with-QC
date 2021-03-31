@@ -127,6 +127,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 ## 2016
 - [U(1) Wilson lattice gauge theories in digital quantum simulators](https://arxiv.org/abs/1612.08653)
 - [Digital Quantum Simulation of Minimal AdS/CFT](https://arxiv.org/abs/1607.08560)
+- [Digital lattice gauge theories](https://arxiv.org/abs/1607.08121)
 - [Digital quantum simulation of ℤ2 lattice gauge theories with dynamical fermionic matter](https://arxiv.org/abs/1607.03656)
 - [Real-time dynamics of lattice gauge theories with a few-qubit quantum computer](https://arxiv.org/abs/1605.04570v1)
 - [Quantum Spin Liquids](https://arxiv.org/abs/1601.03742)
