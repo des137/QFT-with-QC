@@ -51,6 +51,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [From the Jaynes-Cummings model to non-Abelian gauge theories: a guided tour for the quantum engineer](https://arxiv.org/abs/2006.01258)
 - [Toward scalable simulations of Lattice Gauge Theories on quantum computers](https://arxiv.org/abs/2005.10271)
 - [Quantum simulation of quantum field theories as quantum chemistry](https://arxiv.org/abs/2004.13234)
+- [Spin transport in a tunable Heisenberg model realized with ultracold atoms](https://arxiv.org/abs/2005.09549)
 - [Observation of gauge invariance in a 71-site Bose-Hubbard quantum simulator](https://arxiv.org/abs/2003.08945)
 - [Hamiltonian Simulation Algorithms for Near-Term Quantum Hardware](https://arxiv.org/abs/2003.06886)
 - [Digital Simulation of Topological Matter on Programmable Quantum Processors](https://arxiv.org/abs/2003.06086)
