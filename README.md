@@ -3,6 +3,7 @@
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
 ## 2021
+- [Achieving the continuum limit of quantum link lattice gauge theories on quantum devices](https://arxiv.org/abs/2104.00025)
 - [Simulation of Collective Neutrino Oscillations on a Quantum Computer](https://arxiv.org/abs/2102.12556)
 - [SU(2) hadrons on a quantum computer](https://arxiv.org/abs/2102.08920)
 - [Simulating collider physics on quantum computers using effective field theories](https://arxiv.org/abs/2102.05044)
