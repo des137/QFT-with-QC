@@ -61,6 +61,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Quantum simulation for three-dimensional chiral topological insulator](https://arxiv.org/abs/2002.11352)
 - [Quantum Algorithms for Simulating the Lattice Schwinger Model](https://arxiv.org/abs/2002.11146)
 - [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016)
+- [Discretizing quantum field theories for quantum simulation](https://arxiv.org/abs/2002.02643)
 - [Fixed-Point Quantum Circuits for Quantum Field Theories](https://arxiv.org/abs/2002.02018)
 - [Lattice Gauge Theory for a Quantum Computer](https://arxiv.org/abs/2002.10028)
 - [Confinement and Entanglement Dynamics on a Digital Quantum Computer](https://arxiv.org/abs/2001.03044)
