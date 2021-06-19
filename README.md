@@ -3,6 +3,7 @@
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
 ## 2021
+- [Quantum simulation of non-equilibrium dynamics and thermalization in the Schwinger model](https://arxiv.org/abs/2106.08394)
 - [Gauge invariant quantum circuits for U(1) and Yang-Mills lattice gauge theories](https://arxiv.org/abs/2105.05870)
 - [Quantum algorithms for transport coefficients in gauge theories](https://arxiv.org/abs/2104.02024)
 - [Achieving the continuum limit of quantum link lattice gauge theories on quantum devices](https://arxiv.org/abs/2104.00025)
