@@ -4,6 +4,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2021
 - [Quantum simulation of non-equilibrium dynamics and thermalization in the Schwinger model](https://arxiv.org/abs/2106.08394)
+- [Evaluating low-depth quantum algorithms for time evolution on fermion-boson systems](https://arxiv.org/abs/2106.03985)
 - [Cold atoms meet lattice gauge theory](https://arxiv.org/abs/2106.03063)
 - [Gauge invariant quantum circuits for U(1) and Yang-Mills lattice gauge theories](https://arxiv.org/abs/2105.05870)
 - [Quantum algorithms for transport coefficients in gauge theories](https://arxiv.org/abs/2104.02024)
