@@ -9,6 +9,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Evaluating low-depth quantum algorithms for time evolution on fermion-boson systems](https://arxiv.org/abs/2106.03985)
 - [Cold atoms meet lattice gauge theory](https://arxiv.org/abs/2106.03063)
 - [Gauge invariant quantum circuits for U(1) and Yang-Mills lattice gauge theories](https://arxiv.org/abs/2105.05870)
+- [Reliability of lattice gauge theories in the thermodynamic limit](https://arxiv.org/abs/2104.07040)
 - [Quantum algorithms for transport coefficients in gauge theories](https://arxiv.org/abs/2104.02024)
 - [Achieving the continuum limit of quantum link lattice gauge theories on quantum devices](https://arxiv.org/abs/2104.00025)
 - [SU(2) lattice gauge theory on a quantum annealer](https://arxiv.org/abs/2103.08661)
