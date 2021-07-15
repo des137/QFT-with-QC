@@ -4,6 +4,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2021
 - [Nematic Confined Phases in the U(1) Quantum Link Model on a Triangular Lattice](https://arxiv.org/abs/2107.01283)
+- [Evaluating low-depth quantum algorithms for time evolution on fermion-boson systems](https://arxiv.org/abs/2106.03985)
 - [Quantum simulation of non-equilibrium dynamics and thermalization in the Schwinger model](https://arxiv.org/abs/2106.08394)
 - [Towards Quantum Simulating Non-Abelian Gauge Theories](https://arxiv.org/abs/2106.11475)
 - [Quantum Simulation of Lattice Gauge Theories in more than One Space Dimension -- Requirements, Challenges, Methods](https://arxiv.org/abs/2106.04609)
