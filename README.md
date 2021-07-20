@@ -145,6 +145,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - [Digital lattice gauge theories](https://arxiv.org/abs/1607.08121)
 - [Digital quantum simulation of ℤ2 lattice gauge theories with dynamical fermionic matter](https://arxiv.org/abs/1607.03656)
 - [Real-time dynamics of lattice gauge theories with a few-qubit quantum computer](https://arxiv.org/abs/1605.04570v1)
+- [Quantum simulation of (1+1)-dimensional U(1) gauge-Higgs model on a lattice by cold Bose gases](https://arxiv.org/abs/1605.00333)
 - [Quantum Spin Liquids](https://arxiv.org/abs/1601.03742)
 
 ## 2015
