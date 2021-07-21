@@ -3,10 +3,11 @@
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
 ## 2021
+- [Standard Model Physics and the Digital Quantum Revolution: Thoughts about the Interface](https://arxiv.org/abs/2107.04769)
 - [Nematic Confined Phases in the U(1) Quantum Link Model on a Triangular Lattice](https://arxiv.org/abs/2107.01283)
-- [Evaluating low-depth quantum algorithms for time evolution on fermion-boson systems](https://arxiv.org/abs/2106.03985)
-- [Quantum simulation of non-equilibrium dynamics and thermalization in the Schwinger model](https://arxiv.org/abs/2106.08394)
+- [Variational Quantum Eigensolver for SU(N) Fermions](https://arxiv.org/abs/2106.15552)
 - [Towards Quantum Simulating Non-Abelian Gauge Theories](https://arxiv.org/abs/2106.11475)
+- [Quantum simulation of non-equilibrium dynamics and thermalization in the Schwinger model](https://arxiv.org/abs/2106.08394)
 - [Quantum Simulation of Lattice Gauge Theories in more than One Space Dimension -- Requirements, Challenges, Methods](https://arxiv.org/abs/2106.04609)
 - [Evaluating low-depth quantum algorithms for time evolution on fermion-boson systems](https://arxiv.org/abs/2106.03985)
 - [Cold atoms meet lattice gauge theory](https://arxiv.org/abs/2106.03063)
