@@ -4,6 +4,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 
 ## 2021
 - [Towards a variational Jordan-Lee-Preskill quantum algorithm](https://arxiv.org/abs/2109.05547)
+- [Scalable error mitigation for noisy quantum circuits produces competitive expectation values](https://arxiv.org/abs/2108.09197)
 - [Quantum algorithms for quantum dynamics: a performance study on the spin-boson model](https://arxiv.org/abs/2108.04258)
 - [Standard Model Physics and the Digital Quantum Revolution: Thoughts about the Interface](https://arxiv.org/abs/2107.04769)
 - [Nematic Confined Phases in the U(1) Quantum Link Model on a Triangular Lattice](https://arxiv.org/abs/2107.01283)
