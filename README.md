@@ -3,6 +3,7 @@
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
 ## 2021
+- [Efficient Representation for Simulating U(1) Gauge Theories on Digital Quantum Computers at All Values of the Coupling](https://arxiv.org/abs/2111.08015)
 - [Towards Quantum Simulations in Particle Physics and Beyond on Noisy Intermediate-Scale Quantum Devices](https://arxiv.org/abs/2110.03809)
 - [Towards a variational Jordan-Lee-Preskill quantum algorithm](https://arxiv.org/abs/2109.05547)
 - [Scalable error mitigation for noisy quantum circuits produces competitive expectation values](https://arxiv.org/abs/2108.09197)
