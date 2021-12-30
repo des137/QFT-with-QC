@@ -3,8 +3,8 @@
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
 
-
 ## 2021
+- [The spectrum of qubitized QCD: glueballs in a S(1080) gauge theory](https://arxiv.org/abs/2112.08482)
 - [Efficient Representation for Simulating U(1) Gauge Theories on Digital Quantum Computers at All Values of the Coupling](https://arxiv.org/abs/2111.08015)
 - [Towards Quantum Simulations in Particle Physics and Beyond on Noisy Intermediate-Scale Quantum Devices](https://arxiv.org/abs/2110.03809)
 - [Real-time dynamics of Plaquette Models using NISQ Hardware](https://arxiv.org/abs/2109.15065)
