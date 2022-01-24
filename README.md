@@ -2,6 +2,8 @@
 
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
+## 2022
+- []()
 
 ## 2021
 - [The spectrum of qubitized QCD: glueballs in a S(1080) gauge theory](https://arxiv.org/abs/2112.08482)
