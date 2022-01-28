@@ -6,6 +6,7 @@ This is a curated list of up-to-date resources related to the developments in 'Q
 - []()
 
 ## 2021
+- [Digital Quantum Simulation of the Schwinger Model and Symmetry Protection with Trapped Ions](https://arxiv.org/abs/2112.14262)
 - [The spectrum of qubitized QCD: glueballs in a S(1080) gauge theory](https://arxiv.org/abs/2112.08482)
 - [Efficient Representation for Simulating U(1) Gauge Theories on Digital Quantum Computers at All Values of the Coupling](https://arxiv.org/abs/2111.08015)
 - [Towards Quantum Simulations in Particle Physics and Beyond on Noisy Intermediate-Scale Quantum Devices](https://arxiv.org/abs/2110.03809)
