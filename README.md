@@ -3,8 +3,9 @@
 This is a curated list of up-to-date resources related to the developments in 'Quantum Computing techniques for simulating Quantum Field Theory'.
 
 ## 2022
-- []()
-
+- [Real-time evolution of SU(3) hadrons on a quantum computer](https://arxiv.org/abs/2207.03473)
+- [Preparations for Quantum Simulations of Quantum Chromodynamics in 1+1 Dimensions: (I) Axial Gauge](https://arxiv.org/abs/2207.01731)
+- [Variational thermal quantum simulation of the lattice Schwinger model](https://arxiv.org/abs/2205.12767)
 ## 2021
 - [Digital Quantum Simulation of the Schwinger Model and Symmetry Protection with Trapped Ions](https://arxiv.org/abs/2112.14262)
 - [The spectrum of qubitized QCD: glueballs in a S(1080) gauge theory](https://arxiv.org/abs/2112.08482)
